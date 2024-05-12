@@ -6,5 +6,9 @@
     {
         "title": "NextJS Basics",
         "link": "https://dev.to/this-is-learning/first-experience-with-nextjs-2a58"
+    },
+    {
+        "title": "How to Start Django Project with a Database(PostgreSQL)",
+        "link": "https://stackpython.medium.com/how-to-start-django-project-with-a-database-postgresql-aaa1d74659d8"
     }
 ]
