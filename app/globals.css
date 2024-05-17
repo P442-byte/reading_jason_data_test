@@ -1,7 +1,7 @@
 .content-heading{
   display: flex;
   padding: 20px;
-  border-bottom: rgb(0, 0, 0) solid 1.5px;
+  border-bottom: rgb(0, 0, 0) solid 2px;
   justify-content: center;
   position: sticky;
   top: 0;
@@ -10,13 +10,15 @@
 .list-heading{
   display: flex;
   justify-content: center;
-  margin-top: 100px;
+  padding-top: 25px;
 }
 .list-container{
+  border-bottom: rgba(0, 0, 0, 0.477) solid 0.5px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin-top: 50px;
+  padding-top: 25px;
+  padding-bottom: 50px;
 }
 
 .list-item{
